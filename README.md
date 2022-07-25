@@ -17,6 +17,7 @@ Stuff...
 ---
 # Methods
 
+[Methods Stuff](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AJP713/blob/master/methods/04_unplugged.md)
 
 ## Nice!
 
