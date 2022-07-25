@@ -21,7 +21,7 @@ Stuff...
 
 [Methods Stuff](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AJP713/blob/master/methods/04_unplugged.md)
 ---
-[Methods Stuff Trial 2](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AJP713/blob/master/methods/04_unplugged.md)
+[Methods Stuff Trial 2](https://raw.githubusercontent.com/hunter-teacher-cert/cohort-3-summer-work-AJP713/master/methods/04_unplugged.md)
 
 ## Nice!
 
