@@ -5,7 +5,7 @@
 # Programming
 ## Example
 Stuff...
-[Programming Page](https://ajp713.github.io/nycscertweb/otherpage.md)
+[Programming Page](https://ajp713.github.io/nycscertweb/otherpage)
 
 otherpage.md
 ___
