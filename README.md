@@ -12,6 +12,8 @@ ___
 # Data Structures
 ## Example
 Stuff...
+[Data Structures](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AJP713/tree/master/ds)
+
 
 
 ---
