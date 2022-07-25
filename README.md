@@ -1,11 +1,20 @@
 # nycscertweb
 ## Adam Prado's Repository
 
+
 # Programming
+## Example
+Stuff...
 
+___
 # Data Structures
+## Example
+Stuff...
 
+
+---
 # Methods
+
 
 ## Nice!
 
