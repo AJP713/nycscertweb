@@ -5,7 +5,9 @@
 # Programming
 ## Example
 Stuff...
-[title](https://www.example.com) 
+[Programming Page](https://ajp713.github.io/nycscertweb/otherpage.md)
+
+otherpage.md
 ___
 # Data Structures
 ## Example
